@@ -48,9 +48,10 @@ header{
     gap: 20px;
 }
 .listProduct .item{
-    background-color: #75e0ec;
+    background-color: #ffffff;
     padding: 20px;
     border-radius: 20px;
+    border: 1px solid black;
 }
 .listProduct .item h2{
     font-weight: 500;
